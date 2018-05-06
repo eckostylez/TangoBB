@@ -1,4 +1,4 @@
-![TangoBB Logo](https://raw.githubusercontent.com/Codetana/TangoBB/master/public/img/tangobb_logo.png
+![TangoBB Logo](https://raw.githubusercontent.com/Codetana/TangoBB/master/public/img/tangobb_logo.png)
 ## Under review
 
 ## The new simple bulletin board.
